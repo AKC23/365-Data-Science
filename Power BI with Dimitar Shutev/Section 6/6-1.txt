@@ -1,0 +1,15 @@
+Task Four
+
+• Data can be found inside Project Files -> 1. Data Extracts -> Section Four Data Extract or use the file located inside 2. Completed Task -> Task Four
+
+• Create a Measures table that lives on top of all tables
+
+• Create measures that Find the Total Sales for US as Number and also as Percentage
+
+• Create a button to switch between Number and Percentage, when we click on Number, we should see the Number Measure, when we click Percentage, we should see Percentage Measure
+
+• Create a bar chart that shows the Sales Amount for each country
+
+• Change the order of Country, countries need to be ordered in alphabetical order
+
+• Dynamic text box to adapt to changes based on user selection, the box needs to say which country is selected and if no country is selected we should see something along the lines “No Country Selected”
