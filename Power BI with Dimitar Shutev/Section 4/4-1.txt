@@ -1,0 +1,23 @@
+Task Three
+
+Please create a model inside Power BI, data can be found inside Project Files -> 1. Data Extracts -> Section Three Data Extract. All tables need to be imported. Create a dim_Date table using the ShipDate from fact_InternetSales and create the following columns inside:
+
+1. Year
+
+2. Month
+
+3. MonthName
+
+4. DayOfWeek
+
+5. Quarter
+
+6. YearQuarter
+
+Connect the dim_Date table with fact_InternetSales on ShipDate Create the following visuals using the Ask a Question option:
+
+Sales Amount by Currency, sorted by currency name
+
+*Sales Amount by Month - sort it by the correct Month Order, not alphabetical order Matrix Table to show Sales Amount by Email Address per Currency
+
+BONUS POINTS if you can figure out how to increase the font size of the visuals on Titles, Values and Axis, and also change the Style of the Matrix table
